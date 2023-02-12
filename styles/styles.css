@@ -116,6 +116,7 @@ ul.names {
 label.buyticketsmain {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 label.buyticketscontent {
