@@ -122,7 +122,7 @@ label.buyticketsmain {
 label.buyticketscontent {
     display: flex;
     justify-content: center;
-    font-size: larger;
+    font-size: 3vw;
     color: aqua;
 }
 
