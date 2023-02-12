@@ -125,6 +125,7 @@ label.buyticketscontent {
     justify-content: center;
     font-size: 33px;
     color: aqua;
+    width: auto;
 }
 
 .navbar {
