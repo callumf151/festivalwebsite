@@ -117,15 +117,13 @@ label.buyticketsmain {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: auto;
 }
 
 label.buyticketscontent {
     display: flex;
     justify-content: center;
-    font-size: 33px;
+    font-size: larger;
     color: aqua;
-    text-size-adjust: auto;
 }
 
 .navbar {
